@@ -26,7 +26,7 @@ This app is divided to two parts.
 - Moving Counterclockwise
   Orient both polygons counterclockwise. (In other words, as you traverse the list of points representing the polygon, the points should move counterclockwise around the polygon.
 - Starting Point
-  Start at a vertex known to be on one polygon and not inside the other. This example uses the leftmost vertex. Add that point to the union and call it the current_point.
+  Start at a vertex known to be on one polygon and not inside the other. This algorithm uses the leftmost vertex. Add that point to the union and call it the current_point.
 - Move to Next Point
   Starting at the point added to the union, move to the next point along the polygon and:
   - See if the segment from the current_point to the polygon’s next vertex intersects any of the other polygon’s edges. If so, find the intersection that is closest to the current_point and:
