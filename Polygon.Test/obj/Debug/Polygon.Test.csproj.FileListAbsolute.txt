@@ -1,0 +1,14 @@
+E:\Private Work\Draw-Polgyn-Union\Polygon.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\Private Work\Draw-Polgyn-Union\Polygon.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\Private Work\Draw-Polgyn-Union\Polygon.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\Private Work\Draw-Polgyn-Union\Polygon.Test\bin\Debug\Polygon.Test.dll
+E:\Private Work\Draw-Polgyn-Union\Polygon.Test\bin\Debug\Polygon.Test.pdb
+E:\Private Work\Draw-Polgyn-Union\Polygon.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\Private Work\Draw-Polgyn-Union\Polygon.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\Private Work\Draw-Polgyn-Union\Polygon.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\Private Work\Draw-Polgyn-Union\Polygon.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\Private Work\Draw-Polgyn-Union\Polygon.Test\obj\Debug\Polygon.Test.csprojAssemblyReference.cache
+E:\Private Work\Draw-Polgyn-Union\Polygon.Test\obj\Debug\Polygon.Test.csproj.CoreCompileInputs.cache
+E:\Private Work\Draw-Polgyn-Union\Polygon.Test\obj\Debug\Polygon.Test.csproj.CopyComplete
+E:\Private Work\Draw-Polgyn-Union\Polygon.Test\obj\Debug\Polygon.Test.dll
+E:\Private Work\Draw-Polgyn-Union\Polygon.Test\obj\Debug\Polygon.Test.pdb

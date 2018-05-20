@@ -1,0 +1,9 @@
+E:\Private Work\Draw-Polgyn-Union\Factory\bin\Debug\Factory.dll
+E:\Private Work\Draw-Polgyn-Union\Factory\bin\Debug\Factory.pdb
+E:\Private Work\Draw-Polgyn-Union\Factory\bin\Debug\Domain.dll
+E:\Private Work\Draw-Polgyn-Union\Factory\bin\Debug\Domain.pdb
+E:\Private Work\Draw-Polgyn-Union\Factory\obj\Debug\Factory.csprojAssemblyReference.cache
+E:\Private Work\Draw-Polgyn-Union\Factory\obj\Debug\Factory.csproj.CoreCompileInputs.cache
+E:\Private Work\Draw-Polgyn-Union\Factory\obj\Debug\Factory.csproj.CopyComplete
+E:\Private Work\Draw-Polgyn-Union\Factory\obj\Debug\Factory.dll
+E:\Private Work\Draw-Polgyn-Union\Factory\obj\Debug\Factory.pdb

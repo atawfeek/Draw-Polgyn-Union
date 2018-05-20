@@ -1,0 +1,6 @@
+E:\Private Work\Draw-Polgyn-Union\GeometryHelper\bin\Debug\GeometryHelper.dll
+E:\Private Work\Draw-Polgyn-Union\GeometryHelper\bin\Debug\GeometryHelper.pdb
+E:\Private Work\Draw-Polgyn-Union\GeometryHelper\obj\Debug\GeometryHelper.csprojAssemblyReference.cache
+E:\Private Work\Draw-Polgyn-Union\GeometryHelper\obj\Debug\GeometryHelper.csproj.CoreCompileInputs.cache
+E:\Private Work\Draw-Polgyn-Union\GeometryHelper\obj\Debug\GeometryHelper.dll
+E:\Private Work\Draw-Polgyn-Union\GeometryHelper\obj\Debug\GeometryHelper.pdb

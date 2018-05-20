@@ -1,0 +1,11 @@
+E:\Private Work\Draw-Polgyn-Union\Services\bin\Debug\Services.dll
+E:\Private Work\Draw-Polgyn-Union\Services\bin\Debug\Services.pdb
+E:\Private Work\Draw-Polgyn-Union\Services\bin\Debug\Domain.dll
+E:\Private Work\Draw-Polgyn-Union\Services\bin\Debug\GeometryHelper.dll
+E:\Private Work\Draw-Polgyn-Union\Services\bin\Debug\Domain.pdb
+E:\Private Work\Draw-Polgyn-Union\Services\bin\Debug\GeometryHelper.pdb
+E:\Private Work\Draw-Polgyn-Union\Services\obj\Debug\Services.csprojAssemblyReference.cache
+E:\Private Work\Draw-Polgyn-Union\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+E:\Private Work\Draw-Polgyn-Union\Services\obj\Debug\Services.csproj.CopyComplete
+E:\Private Work\Draw-Polgyn-Union\Services\obj\Debug\Services.dll
+E:\Private Work\Draw-Polgyn-Union\Services\obj\Debug\Services.pdb

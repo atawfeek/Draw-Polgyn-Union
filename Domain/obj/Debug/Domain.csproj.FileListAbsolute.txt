@@ -1,0 +1,6 @@
+E:\Private Work\Draw-Polgyn-Union\Domain\bin\Debug\Domain.dll
+E:\Private Work\Draw-Polgyn-Union\Domain\bin\Debug\Domain.pdb
+E:\Private Work\Draw-Polgyn-Union\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+E:\Private Work\Draw-Polgyn-Union\Domain\obj\Debug\Domain.dll
+E:\Private Work\Draw-Polgyn-Union\Domain\obj\Debug\Domain.pdb
+E:\Private Work\Draw-Polgyn-Union\Domain\obj\Debug\Domain.csprojAssemblyReference.cache

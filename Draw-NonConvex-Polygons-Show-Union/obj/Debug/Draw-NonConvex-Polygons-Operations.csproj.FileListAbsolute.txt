@@ -1,0 +1,5 @@
+E:\Private Work\Draw-Polgyn-Union\Draw-NonConvex-Polygons-Show-Union\obj\Debug\Draw-NonConvex-Polygons-Operations.csprojAssemblyReference.cache
+E:\Private Work\Draw-Polgyn-Union\Draw-NonConvex-Polygons-Show-Union\obj\Debug\Draw_NonConvex_Polygons_Show_Union.Form1.resources
+E:\Private Work\Draw-Polgyn-Union\Draw-NonConvex-Polygons-Show-Union\obj\Debug\Draw_NonConvex_Polygons_Show_Union.Properties.Resources.resources
+E:\Private Work\Draw-Polgyn-Union\Draw-NonConvex-Polygons-Show-Union\obj\Debug\Draw-NonConvex-Polygons-Operations.csproj.GenerateResource.cache
+E:\Private Work\Draw-Polgyn-Union\Draw-NonConvex-Polygons-Show-Union\obj\Debug\Draw-NonConvex-Polygons-Operations.csproj.CoreCompileInputs.cache
